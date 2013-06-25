@@ -23,4 +23,4 @@ def mouse(left, right)
 "This mouse moved " +left+ "times to the left and " +right+ "to the right"
 end
 
-puts mouse ('3', '5')
+puts mouse('3', '5')
