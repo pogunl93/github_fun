@@ -24,3 +24,5 @@ def mouse(left, right)
 end
 
 puts mouse('3', '5')
+final = 115
+puts final
